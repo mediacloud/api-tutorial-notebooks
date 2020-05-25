@@ -5,3 +5,4 @@ bokeh==2.0.*
 matplotlib==3.2.*
 python-dotenv==0.13.*
 gensim==3.5.*
+dateparser==0.7.*

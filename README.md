@@ -18,3 +18,12 @@ If you want to use these on your local machine:
 1. Install Python 3.x
 2. Setup Jupyter Notebooks (if you are new try [Anaconda](https://www.anaconda.com/products/individual) with [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html))
 3. [Sign up for a Media Cloud account](https://tools.mediacloud.org/#/user/signup) to obtain an API key.
+
+## Acknowledgements
+
+The following folks provided ideas and feedback on these tutorials:
+
+* Aashka Dave
+* Orestis Papakyriakopoulos
+* [Dennis Jen](https://github.com/dsjen)
+* [Hal Roberts](https://github.com/hroberts)

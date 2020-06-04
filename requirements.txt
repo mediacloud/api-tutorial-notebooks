@@ -1,4 +1,4 @@
-mediacloud==3.11.*
+mediacloud==3.12.*
 numpy==1.18.*
 pandas==1.0.*
 bokeh==2.0.*

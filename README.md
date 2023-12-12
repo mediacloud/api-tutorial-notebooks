@@ -1,9 +1,8 @@
-Media Cloud API Tutorial Notebooks
-==================================
+Media Cloud Online News Archive API Tutorial Notebooks
+======================================================
 
 A set up Python3 Jupyter notebooks for learning to use the Media Cloud API to investigate media coverage online. These are
-tailored to be used with a hosted Jupyter Lab environment on [Bindery](https://mybinder.org/). We originally created them to
-support of a tutorial session we ran at the virtual [ICWSM 2020 conference](https://www.icwsm.org/2020/index.html).
+tailored to be used with a hosted Jupyter Lab environment on [Bindery](https://mybinder.org/). 
 
 ## Hosted Quickstart
 
@@ -18,12 +17,13 @@ If you want to use these on your local machine:
 
 1. Install Python 3.x
 2. Setup Jupyter Notebooks (if you are new try [Anaconda](https://www.anaconda.com/products/individual) with [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html))
-3. [Sign up for a Media Cloud account](https://tools.mediacloud.org/#/user/signup) to obtain an API key.
+3. [Sign up for a Media Cloud account](https://search.mediacloud.org/sign-in) to obtain an API key.
 
 ## Acknowledgements
 
-The following folks provided ideas and feedback on these tutorials:
+We originally created these to support of a tutorial session we ran at the virtual [ICWSM 2020 conference](https://www.icwsm.org/2020/index.html). The following folks provided ideas and feedback on these tutorials:
 
+* [Rahul Bhargava](https://github.com/rahulbot)
 * Aashka Dave
 * Orestis Papakyriakopoulos
 * [Dennis Jen](https://github.com/dsjen)

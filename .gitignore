@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 *.csv
 *.model
+.DS_Store

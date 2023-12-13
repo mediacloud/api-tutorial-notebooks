@@ -21,9 +21,9 @@ If you want to use these on your local machine:
 
 ## Changelog
 
-2023-12-12: major updates to match v4.1.0 of the API client
-2022-09-07: update requirements to latest versions
-2020-06-03: first public release for ICWSM 2020 conference tutorial session
+* 2023-12-12: major updates to match v4.1.0 of the API client
+* 2022-09-07: update requirements to latest versions
+* 2020-06-03: first public release for ICWSM 2020 conference tutorial session
 
 ## Acknowledgements
 

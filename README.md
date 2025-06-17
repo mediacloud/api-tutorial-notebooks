@@ -15,13 +15,14 @@ a Jupyter Lab environment fully set up and ready to use!🎉👍🏽
 
 If you want to use these on your local machine:
 
-1. Install Python >= 3.10.
+1. Install Python >= 3.11.
 2. Setup Jupyter Notebooks (if you are new try [Anaconda](https://www.anaconda.com/products/individual) with [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)).
 3. [Sign up for a Media Cloud account](https://search.mediacloud.org/sign-in) to obtain an API key.
 
 ## Changelog
 
-* 2025-05-09: update requiremnts and fix minor typos in examples
+* 2025-06-17: add `story_sample` & `source` examples, upgrade to python 3.13
+* 2025-05-09: update requirements and fix minor typos in examples
 * 2023-12-12: major updates to match v4.1.0 of the API client
 * 2022-09-07: update requirements to latest versions
 * 2020-06-03: first public release for ICWSM 2020 conference tutorial session
